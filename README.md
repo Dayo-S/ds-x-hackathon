@@ -1,5 +1,3 @@
-Here’s a README draft tailored to the R script in your GitHub repo [`ds-x-hackathon`](https://github.com/Dayo-S/ds-x-hackathon/blob/main/ds%2Bx.R). It highlights your data cleaning, visualization, and modeling work around food waste reduction:
-
 ---
 
 # 📊 DS+X Hackathon: Food Waste Visualization & Modeling
